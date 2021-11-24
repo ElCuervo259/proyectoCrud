@@ -1,0 +1,12 @@
+.gap {
+    padding-right: 50px;
+    color: white !important;
+}
+
+.example-spacer {
+    flex: 1 1 auto;
+}
+
+.mat-icon {
+    vertical-align: -4px;
+}

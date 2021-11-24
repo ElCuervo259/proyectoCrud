@@ -1,0 +1,41 @@
+/* Size of table */
+
+.mat-table {
+    width: 1200px;
+}
+
+
+/* Icons in table */
+
+.aniadir {
+    margin-bottom: 3.5px;
+}
+
+.iconobasura {
+    margin-left: 7px;
+    color: red;
+}
+
+
+/* Size icon Main */
+
+.iconoMain {
+    width: 150px;
+}
+
+
+/* Configuratioon Table */
+
+.mat-row .mat-cell {
+    border-bottom: 1px solid transparent;
+    border-top: 1px solid transparent;
+    cursor: pointer;
+}
+
+.mat-row:hover .mat-cell {
+    border-color: currentColor;
+}
+
+.demo-row-is-clicked {
+    font-weight: bold;
+}
